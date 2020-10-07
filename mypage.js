@@ -11,4 +11,4 @@ function set()
 	}
 }
 
-document.getElementById('set').addEventListene
+document.getElementById('set').addEventListener('click',set);
