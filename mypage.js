@@ -1,3 +1,4 @@
+//Reference: https://www.udemy.com/course/Javascript-essentials
 let elements = document.getElementsByName('cssProperty');
 let div = document.getElementById('modify');
 
